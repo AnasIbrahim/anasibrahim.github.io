@@ -25,6 +25,38 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 
 ## Publications {#publications}
 
+<section class="publications">
+<div class="pub-item">
+  <div class="pub-thumb">
+    <img src="/images_content/MR6D.png" alt="MR6D teaser image" loading="lazy">
+  </div>
+  <div class="pub-meta">
+    <h3 class="pub-title">
+      <a href="https://arxiv.org/abs/2508.13775" target="_blank" rel="noopener">
+        MR6D: Benchmarking 6D Pose Estimation for Mobile Robots
+      </a>
+    </h3>
+    <p class="pub-authors">
+      <strong>Anas Gouda</strong><sup>1,3</sup>, Shrutarv Awasthi<sup>1</sup>,
+      Christian Blesing<sup>2</sup>, Lokeshwaran Manohar<sup>1</sup>,
+      Frank Hoffmann<sup>1</sup>, Alice Kirchheim<sup>1,2,3</sup>
+    </p>
+    <p class="pub-affiliations">
+      <sup>1</sup> TU Dortmund &nbsp; · &nbsp;
+      <sup>2</sup> Fraunhofer IML &nbsp; · &nbsp;
+      <sup>3</sup> Lamarr Institute
+    </p>
+    <p class="pub-venue"><em>ICCV 2025 — R6D Workshop</em></p>
+    <p class="pub-links">
+      <a href="https://arxiv.org/abs/2508.13775">Paper</a>
+    </p>
+  </div>
+</div>
+
+
+  <!-- Repeat more .pub-item blocks for other papers -->
+</section>
+
 ## Projects {#projects}
 
 ## CV {#cv}
