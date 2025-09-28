@@ -28,7 +28,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 <section class="publications">
 <div class="pub-item">
   <div class="pub-thumb">
-    <img src="/images_content/MR6D.png" alt="MR6D teaser image" loading="lazy">
+    <img src="/images_content/MR6D.png" alt="MR6D teaser image" loading="lazy" style="height:150px; width:auto; display:block; margin:0 auto;">
   </div>
   <div class="pub-meta">
     <h3 class="pub-title">
