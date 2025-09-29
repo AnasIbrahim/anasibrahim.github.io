@@ -239,7 +239,9 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
     <h3 class="pub-title" style="margin:0 0 0.3em 0;">
-      Event Camera as Region Proposal Network
+      <a href="https://arxiv.org/abs/2305.00718" target="_blank" rel="noopener">
+        Event Camera as Region Proposal Network
+      </a>
     </h3>
     <!-- Authors -->
     <p class="pub-authors" style="margin:0.2em 0;">
