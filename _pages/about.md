@@ -28,7 +28,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 <section class="publications">
 
 <!-- MR6D -->
-<div class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
+<div id="mr6d" class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
   <!-- Left: 16:9 image box -->
   <div class="pub-thumb" style="position:relative; width:100%; aspect-ratio:16/9; background:#f9f9f9; border:1px solid #ddd; border-radius:6px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
     <img src="/images_content/MR6D.png" alt="MR6D teaser image" loading="lazy"
@@ -66,7 +66,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- BOP Challenge 2024 -->
-<div class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
+<div id="bop24" class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/bop24.jpg" alt="BOP Challenge 2024 teaser image" loading="lazy"
@@ -109,7 +109,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- MTevent -->
-<div class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
+<div id="mtevent" class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
   <!-- Left: 2:3 image box -->
   <div class="pub-thumb" style="position:relative; width:100%; aspect-ratio:2/3; background:#f9f9f9; border:1px solid #ddd; border-radius:6px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
     <img src="/images_content/MTevent_event_L_RGB.jpg" alt="MTevent teaser image" loading="lazy"
@@ -155,7 +155,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- CTL -->
-<div class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
+<div id="ctl" class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
   <!-- Left: flexible height -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/CTL.png" alt="CTL teaser image" loading="lazy"
@@ -197,7 +197,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- DoUnseen -->
-<div class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
+<div id="dounseen" class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/dounseen_paper.png" alt="DoUnseen teaser image" loading="lazy"
@@ -230,7 +230,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- Event Camera as Region Proposal Network -->
-<div class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
+<div id="event_roi" class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/Event_as_ROI.png" alt="Event Camera as RPN teaser image" loading="lazy"
@@ -261,7 +261,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- SensorFloor -->
-<div class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
+<div id="sensorfloor" class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/sensorfloor_render.jpg" alt="SensorFloor teaser image" loading="lazy"
@@ -299,7 +299,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- The potential of deep learning in warehousing logistics -->
-<div class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
+<div id="dl_in_log" class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
   <!-- Left: empty white space -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <div style="width:100%; aspect-ratio:4/3; border:1px solid #fff; border-radius:6px; background:#fff;"></div>
@@ -332,7 +332,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- DoPose-6D -->
-<div class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
+<div id="dopose" class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/dopose.png" alt="DoPose-6D teaser image" loading="lazy"
@@ -373,7 +373,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- Object Class-Agnostic Segmentation -->
-<div class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
+<div id="agnostic_seg" class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/iiwa_new.jpg" alt="Object Class-Agnostic Segmentation teaser image" loading="lazy"
@@ -407,7 +407,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- Decentralized Brains -->
-<div class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
+<div id="debr" class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:1.5rem 0;">
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/debr.jpg" alt="Decentralized Brains teaser image" loading="lazy"
@@ -443,6 +443,126 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </section>
 
 ## Projects {#projects}
+<section class="projects">
+
+<!-- Project: EventRec -->
+<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border:1px solid #ddd; border-radius:10px; background:#fafafa;">
+  <h3 style="margin:0 0 0.5rem 0;">EventRec</h3>
+  <p style="margin:0.25rem 0 1rem 0;">
+    <a href="https://flw.mb.tu-dortmund.de/research/research-projects/eventrec" target="_blank" rel="noopener"
+       style="display:inline-block; background:#e0e0e0; color:#000; padding:0.35em 0.9em; border-radius:0.4em; text-decoration:none; font-weight:600;">
+      Project Page
+    </a>
+  </p>
+  <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
+  <img src="/images_content/eventrec_cam_system.jpg" alt="EventRec camera system"
+       loading="lazy"
+       style="height:180px; width:auto;">
+  <img src="/images_content/EventRec.jpg" alt="EventRec O³dyn robot"
+       loading="lazy"
+       style="height:180px; width:auto;">
+  </div>
+  <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
+    <p style="margin:0.4rem 0;">
+      I proposed the EventRec project and led it from concept to securing funding from the AIF/IGF, in close collaboration with colleagues.
+    </p>
+    <p style="margin:0.4rem 0;">
+      The project focuses on perception for high-speed robotics (e.g., the O³dyn robot) using event cameras.
+      It develops generic methods with a multi-modal stereo-event and RGB camera system for 3D detection of
+      fast-moving objects, enabling mobile robots to navigate at high speeds.
+    </p>
+    <p style="margin:0.4rem 0;">
+      <strong>Industry partners:</strong> KION, Jungheinrich, Framos and others.
+    </p>
+  </div>
+  <div class="project-meta" style="margin-top:0.9rem;">
+    <div style="margin:0.3rem 0;">
+      <strong>Published Papers:</strong>
+      <a href="{{ page.url | relative_url }}#mtevent"
+         style="background:#e0e0e0; color:#000; padding:0.25em 0.6em; border-radius:0.35em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem; font-size:0.9em;">
+         MTevent
+      </a>
+      <a href="{{ page.url | relative_url }}#event_roi"
+         style="background:#e0e0e0; color:#000; padding:0.25em 0.6em; border-radius:0.35em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem; font-size:0.9em;">
+         Event ROI
+      </a>
+    </div>
+    <div style="margin:0.3rem 0; display:inline-flex; gap:0.4rem; flex-wrap:wrap;">
+      <span style="background:#f0f0f0; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">Event Cameras</span>
+      <span style="background:#f0f0f0; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">High-Speed Robotics</span>
+      <span style="background:#f0f0f0; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">3D Detection</span>
+    </div>
+  </div>
+</div>
+
+<!-- Project: DoUnseen Package -->
+<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border:1px solid #ddd; border-radius:10px; background:#fafafa;">
+  <h3 style="margin:0 0 0.5rem 0;">DoUnseen Package</h3>
+  <p style="margin:0.25rem 0 1rem 0;">
+    <a href="https://github.com/AnasIbrahim/image_agnostic_segmentation" target="_blank" rel="noopener"
+       style="display:inline-block; background:#e0e0e0; color:#000; padding:0.35em 0.9em; border-radius:0.4em; text-decoration:none; font-weight:600;">
+      Project Page
+    </a>
+  </p>
+  <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
+    <img src="/images_content/dounseen_logo_10.jpg" alt="DoUnseen logo"
+         loading="lazy"
+         style="height:180px; width:auto;">
+  </div>
+  <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
+    <p style="margin:0.4rem 0;">Package for 2D segmentation of unseen objects and the main outcome of my PhD work.</p>
+    <p style="margin:0.4rem 0;">The package segments arbitrary objects from only a few images, making it broadly applicable. I focused on two applications: bin picking and grasping for mobile robots, for which dedicated datasets were collected.</p>
+    <p style="margin:0.4rem 0;">While the package itself targets segmentation, our centroid triplet loss (CTL) built on top of it achieved strong results on ArmBench. This line of work is especially relevant to logistics, where countless items must be segmented and classified, and parts have already been transferred to industry.</p>
+  </div>
+  <div class="project-meta" style="margin-top:0.9rem;">
+    <div style="margin:0.3rem 0;">
+      <strong>Published Papers:</strong>
+      <a href="{{ page.url | relative_url }}#ctl"
+         style="background:#e0e0e0; color:#000; padding:0.25em 0.6em; border-radius:0.35em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem; font-size:0.9em;">CTL</a>
+      <a href="{{ page.url | relative_url }}#dounseen"
+         style="background:#e0e0e0; color:#000; padding:0.25em 0.6em; border-radius:0.35em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem; font-size:0.9em;">DoUnseen</a>
+      <a href="{{ page.url | relative_url }}#dopose"
+         style="background:#e0e0e0; color:#000; padding:0.25em 0.6em; border-radius:0.35em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem; font-size:0.9em;">DoPose</a>
+      <a href="{{ page.url | relative_url }}#mr6d"
+         style="background:#e0e0e0; color:#000; padding:0.25em 0.6em; border-radius:0.35em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem; font-size:0.9em;">MR6D</a>
+    </div>
+    <div style="margin:0.3rem 0; display:inline-flex; gap:0.4rem; flex-wrap:wrap;">
+      <span style="background:#f0f0f0; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">Unseen Object Segmentation</span>
+      <span style="background:#f0f0f0; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">Bin Picking</span>
+      <span style="background:#f0f0f0; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">Robotic Grasping</span>
+      <span style="background:#f0f0f0; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">Logistics</span>
+    </div>
+  </div>
+</div>
+
+<!-- Project: BOP Benchmark -->
+<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border:1px solid #ddd; border-radius:10px; background:#fafafa;">
+  <h3 style="margin:0 0 0.5rem 0;">BOP Benchmark</h3>
+  <p style="margin:0.25rem 0 1rem 0;">
+    <a href="https://bop.felk.cvut.cz/" target="_blank" rel="noopener" style="display:inline-block; background:#e0e0e0; color:#000; padding:0.35em 0.9em; border-radius:0.4em; text-decoration:none; font-weight:600;">Project Page</a>
+  </p>
+  <div class="project-images" style="display:flex; justify-content:center; gap:0.75rem; flex-wrap:wrap; margin:0 auto 1rem auto; max-width:1000px;">
+    <img src="/images_content/BOP.jpg" alt="BOP Benchmark teaser" loading="lazy" style="height:180px; width:auto;">
+  </div>
+  <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
+    <p style="margin:0.4rem 0;">Co-organized with Meta, Google, CTU Prague, ENPC ParisTech, NVIDIA, Niantic, KAIST, and others.</p>
+    <p style="margin:0.4rem 0;">BOP is a collaborative benchmark for 6D pose estimation. I joined the organizers in 2024, contributing to the annotation tool in the BOP toolkit, dataset collection, and toolkit maintenance. The benchmark has recently expanded to unseen 6D pose estimation, closely aligned with my PhD research.</p>
+  </div>
+  <div class="project-meta" style="margin-top:0.9rem;">
+    <div style="margin:0.3rem 0;">
+      <strong>Published Papers:</strong>
+      <a href="{{ page.url | relative_url }}#bop-2024-report" style="background:#e0e0e0; color:#000; padding:0.25em 0.6em; border-radius:0.35em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem; font-size:0.9em;">BOP 2024 Report</a>
+    </div>
+    <div style="margin:0.3rem 0; display:inline-flex; gap:0.4rem; flex-wrap:wrap;">
+      <span style="background:#f0f0f0; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">6D Pose</span>
+      <span style="background:#f0f0f0; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">Unseen Objects</span>
+      <span style="background:#f0f0f0; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">Benchmarking</span>
+    </div>
+  </div>
+</div>
+
+
+</section>
 
 ## CV {#cv}
 
