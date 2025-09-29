@@ -347,10 +347,10 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
     </h3>
     <!-- Authors -->
     <p class="pub-authors" style="margin:0.2em 0;">
-      <strong>Anas Gouda</strong><sup>1</sup>, Ahmad Ghanem<sup>1</sup>, Christopher Reining<sup>1</sup>
+      <strong>Anas Gouda</strong>, Ahmad Ghanem, Christopher Reining
     </p>
     <p class="pub-affiliations" style="margin:0.2em 0; font-size:0.95em;">
-      <sup>1</sup> TU Dortmund
+      TU Dortmund
     </p>
     <p class="pub-venue" style="margin:0.3em 0; font-style:italic;">
       ICMLA 2022
