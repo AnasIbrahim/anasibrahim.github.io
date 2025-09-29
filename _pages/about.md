@@ -28,7 +28,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 <section class="publications">
 
 <!-- MR6D -->
-<div id="mr6d" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f0f4ff; border-radius:10px; padding:1.2rem;">
+<div id="mr6d" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: 16:9 image box -->
   <div class="pub-thumb" style="position:relative; width:100%; aspect-ratio:16/9; background:#f9f9f9; border-radius:6px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
     <img src="/images_content/MR6D.png" alt="MR6D teaser image" loading="lazy"
@@ -66,7 +66,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- BOP Challenge 2024 -->
-<div id="bop24" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f0f4ff; border-radius:10px; padding:1.2rem;">
+<div id="bop24" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/bop24.jpg" alt="BOP Challenge 2024 teaser image" loading="lazy"
@@ -109,7 +109,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- MTevent -->
-<div id="mtevent" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f0f4ff; border-radius:10px; padding:1.2rem;">
+<div id="mtevent" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: 2:3 image box -->
   <div class="pub-thumb" style="position:relative; width:100%; aspect-ratio:2/3; background:#f9f9f9; border-radius:6px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
     <img src="/images_content/MTevent_event_L_RGB.jpg" alt="MTevent teaser image" loading="lazy"
@@ -155,7 +155,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- CTL -->
-<div id="ctl" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f0f4ff; border-radius:10px; padding:1.2rem;">
+<div id="ctl" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: flexible height -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/CTL.png" alt="CTL teaser image" loading="lazy"
@@ -197,7 +197,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- DoUnseen -->
-<div id="dounseen" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f0f4ff; border-radius:10px; padding:1.2rem;">
+<div id="dounseen" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/dounseen_paper.png" alt="DoUnseen teaser image" loading="lazy"
@@ -230,7 +230,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- Event Camera as Region Proposal Network -->
-<div id="event_roi" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f0f4ff; border-radius:10px; padding:1.2rem;">
+<div id="event_roi" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/Event_as_ROI.png" alt="Event Camera as RPN teaser image" loading="lazy"
@@ -263,7 +263,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- SensorFloor -->
-<div id="sensorfloor" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f0f4ff; border-radius:10px; padding:1.2rem;">
+<div id="sensorfloor" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/sensorfloor_render.jpg" alt="SensorFloor teaser image" loading="lazy"
@@ -301,9 +301,11 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- The potential of deep learning in warehousing logistics -->
-<div id="dl_in_log" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f0f4ff; border-radius:10px; padding:1.2rem;">
+<div id="dl_in_log" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: empty space (no white box) -->
-  <div class="pub-thumb" style="width:100%;"></div>
+  <div class="pub-thumb" style="width:100%; display:flex; align-items:center; justify-content:center; background:#ffffff; border-radius:6px; border:1px dashed #a3b1d3; min-height:160px;">
+    <span style="display:block; width:100%; text-align:center; color:#2d3f74; font-size:0.95em; font-weight:600; letter-spacing:0.08em; text-transform:uppercase; padding:0 1rem;">Computer Vision &nbsp;|&nbsp; Warehousing Logistics</span>
+  </div>
 
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
@@ -333,7 +335,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- DoPose-6D -->
-<div id="dopose" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f0f4ff; border-radius:10px; padding:1.2rem;">
+<div id="dopose" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/dopose.png" alt="DoPose-6D teaser image" loading="lazy"
@@ -374,7 +376,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- Object Class-Agnostic Segmentation -->
-<div id="agnostic_seg" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f0f4ff; border-radius:10px; padding:1.2rem;">
+<div id="agnostic_seg" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/iiwa_new.jpg" alt="Object Class-Agnostic Segmentation teaser image" loading="lazy"
@@ -408,7 +410,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- Decentralized Brains -->
-<div id="debr" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f0f4ff; border-radius:10px; padding:1.2rem;">
+<div id="debr" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/3-non-initiator_cut.jpg" alt="Decentralized Brains teaser image" loading="lazy"
@@ -447,7 +449,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 <section class="projects">
 
 <!-- Project: EventRec -->
-<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f0f4ff;">
+<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f8f9fb; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <h3 style="margin:0 0 0.5rem 0;">
     EventRec <span style="font-size:0.9em; color:#666; font-weight:normal;"></span>
   </h3>
@@ -502,7 +504,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- Project: DoUnseen Package -->
-<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f0f4ff;">
+<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f8f9fb; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <h3 style="margin:0 0 0.5rem 0;">
     DoUnseen Package <span style="font-size:0.9em; color:#666; font-weight:normal;"></span>
   </h3>
@@ -551,7 +553,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- Project: BOP Benchmark -->
-<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f0f4ff;">
+<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f8f9fb; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <h3 style="margin:0 0 0.5rem 0;">
     BOP Benchmark <span style="font-size:0.9em; color:#666; font-weight:normal;"></span>
   </h3>
@@ -581,7 +583,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
   </div>
 </div>
 <!-- Project: Robotic Grasping Using Deep Learning and Ensemble Methods -->
-<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f0f4ff;">
+<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f8f9fb; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <h3 style="margin:0 0 0.3rem 0;">
     Robotic Grasping Using Deep Learning and Ensemble Methods
   </h3>
@@ -601,7 +603,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- Project: DeBr: Decentralized Brains Radio Protocol -->
-<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f0f4ff;">
+<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f8f9fb; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <h3 style="margin:0 0 0.3rem 0;">
     DeBr: Decentralized Brains Radio Protocol
   </h3>
@@ -637,7 +639,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- Project: Sensor-floor Testbed -->
-<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f0f4ff;">
+<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f8f9fb; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <h3 style="margin:0 0 0.3rem 0;">
     Sensor-floor Testbed
   </h3>
@@ -676,7 +678,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- Project: ROSVITA -->
-<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f0f4ff;">
+<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f8f9fb; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <h3 style="margin:0 0 0.3rem 0;">
     ROSVITA
   </h3>
@@ -700,7 +702,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- Project: Mineprobe -->
-<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f0f4ff;">
+<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f8f9fb; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <h3 style="margin:0 0 0.3rem 0;">
     Mineprobe
   </h3>
@@ -729,7 +731,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 </div>
 
 <!-- Project: My Hobbyist Robotics Time -->
-<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f0f4ff;">
+<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f8f9fb; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <h3 style="margin:0 0 0.3rem 0;">
     My Hobbyist Robotics Time
   </h3>
