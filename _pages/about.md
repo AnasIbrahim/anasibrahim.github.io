@@ -785,6 +785,116 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 
 </section>
 
-## CV {#cv}
+## About Me {#about}
 
-## Teaching {#teaching}
+<div class="about-grid" style="display:grid; gap:1.5rem; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); align-items:start; margin-top:1.5rem;">
+
+  <div class="about-card" style="background:#f8f9fb; border-radius:14px; padding:1.6rem; box-shadow:0 10px 24px rgba(15,30,65,0.08);">
+    <h3 id="experience" style="margin:0 0 0.9rem 0; font-size:1.25rem;">Work Experience</h3>
+    <ul style="list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:1.15rem;">
+      <li>
+        <div style="display:flex; flex-direction:column; gap:0.25rem;">
+          <span style="font-weight:600; color:#11203f;">Research Associate</span>
+          <span style="font-size:0.9em; color:#5a6b8f;">2023 – Present · Dortmund</span>
+        </div>
+        <div style="font-size:0.95em; color:#283557; font-weight:500; margin-top:0.2rem;">LAMARR Institute for Machine Learning and Artificial Intelligence</div>
+        <p style="font-size:0.9em; color:#586079; margin:0.4rem 0 0 0;">Lead research on deep learning and computer vision for mobile manipulation and robotic grasping.</p>
+      </li>
+      <li>
+        <div style="display:flex; flex-direction:column; gap:0.25rem;">
+          <span style="font-weight:600; color:#11203f;">Research Associate</span>
+          <span style="font-size:0.9em; color:#5a6b8f;">2020 – Present · Dortmund</span>
+        </div>
+        <div style="font-size:0.95em; color:#283557; font-weight:500; margin-top:0.2rem;">TU Dortmund – Chair of Materials Handling and Warehousing</div>
+        <p style="font-size:0.9em; color:#586079; margin:0.4rem 0 0 0;">Teach cyber-physical systems while managing departmental servers, backups, and research tooling.</p>
+      </li>
+      <li>
+        <div style="display:flex; flex-direction:column; gap:0.25rem;">
+          <span style="font-weight:600; color:#11203f;">Student Research Assistant</span>
+          <span style="font-size:0.9em; color:#5a6b8f;">2019 – 2020 · Dortmund</span>
+        </div>
+        <div style="font-size:0.95em; color:#283557; font-weight:500; margin-top:0.2rem;">TU Dortmund – Chair of Materials Handling and Warehousing</div>
+        <p style="font-size:0.9em; color:#586079; margin:0.4rem 0 0 0;">Authored research, prototyped simulations, and built low-power embedded firmware.</p>
+      </li>
+      <li>
+        <div style="display:flex; flex-direction:column; gap:0.25rem;">
+          <span style="font-weight:600; color:#11203f;">Working Student · Robotic Software</span>
+          <span style="font-size:0.9em; color:#5a6b8f;">2018 · Münster</span>
+        </div>
+        <div style="font-size:0.95em; color:#283557; font-weight:500; margin-top:0.2rem;">Provisio GmbH / Xamla</div>
+        <p style="font-size:0.9em; color:#586079; margin:0.4rem 0 0 0;">Delivered ROS drivers and tooling in Python and C++ for new robotic platforms.</p>
+      </li>
+      <li>
+        <div style="display:flex; flex-direction:column; gap:0.25rem;">
+          <span style="font-weight:600; color:#11203f;">Robotics Software &amp; Hardware Developer</span>
+          <span style="font-size:0.9em; color:#5a6b8f;">2016 – 2017 · Egypt</span>
+        </div>
+        <div style="font-size:0.95em; color:#283557; font-weight:500; margin-top:0.2rem;">Innovision Industries</div>
+        <p style="font-size:0.9em; color:#586079; margin:0.4rem 0 0 0;">Designed sensing, localization, and PCB hardware for the Mineprobe landmine-detection robot.</p>
+      </li>
+    </ul>
+  </div>
+
+  <div class="about-card" style="background:#f8f9fb; border-radius:14px; padding:1.6rem; box-shadow:0 10px 24px rgba(15,30,65,0.08);">
+    <h3 id="education" style="margin:0 0 0.9rem 0; font-size:1.25rem;">Education</h3>
+    <ul style="list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:1.1rem;">
+      <li>
+        <div style="display:flex; flex-direction:column; gap:0.25rem;">
+          <span style="font-weight:600; color:#11203f;">PhD · Computer Vision for Robotics</span>
+          <span style="font-size:0.9em; color:#5a6b8f;">2021 – Q2 2026</span>
+        </div>
+        <div style="font-size:0.95em; color:#283557; font-weight:500; margin-top:0.2rem;">TU Dortmund</div>
+        <p style="font-size:0.9em; color:#586079; margin:0.3rem 0 0 0;">Researching generalization of deep learning models for robotic grasping.</p>
+      </li>
+      <li>
+        <div style="display:flex; flex-direction:column; gap:0.25rem;">
+          <span style="font-weight:600; color:#11203f;">MSc · Automation &amp; Robotics</span>
+          <span style="font-size:0.9em; color:#5a6b8f;">2017 – 2020</span>
+        </div>
+        <div style="font-size:0.95em; color:#283557; font-weight:500; margin-top:0.2rem;">TU Dortmund</div>
+      </li>
+      <li>
+        <div style="display:flex; flex-direction:column; gap:0.25rem;">
+          <span style="font-weight:600; color:#11203f;">BSc · Electrical &amp; Computer Engineering</span>
+          <span style="font-size:0.9em; color:#5a6b8f;">2011 – 2016</span>
+        </div>
+        <div style="font-size:0.95em; color:#283557; font-weight:500; margin-top:0.2rem;">Higher Technological Institute, Egypt</div>
+      </li>
+    </ul>
+  </div>
+
+  <div class="about-card" style="background:#f8f9fb; border-radius:14px; padding:1.6rem; box-shadow:0 10px 24px rgba(15,30,65,0.08);">
+    <h3 id="skills" style="margin:0 0 0.9rem 0; font-size:1.25rem;">Skills</h3>
+    <div style="display:flex; flex-direction:column; gap:1.1rem;">
+      <div>
+        <h4 style="margin:0 0 0.5rem 0; font-size:1rem; color:#1c2c4a; text-transform:uppercase; letter-spacing:0.06em;">Technical</h4>
+        <div style="display:flex; flex-wrap:wrap; gap:0.45rem;">
+          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Python</span>
+          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">C++</span>
+          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">MATLAB</span>
+          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Git</span>
+          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Linux</span>
+          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">ROS</span>
+          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Deep Learning</span>
+          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">2D/3D Computer Vision</span>
+          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">6D Pose Estimation</span>
+          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Embedded Systems</span>
+          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">High-Speed Robotics</span>
+          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Mobile Robots</span>
+          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Wireless Sensor Networks</span>
+          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Communication Flooding Protocols</span>
+          <span style="background:#e1e7ff; color:#1e2a5c; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Robotic Grasping</span>
+        </div>
+      </div>
+      <div>
+        <h4 style="margin:0 0 0.5rem 0; font-size:1rem; color:#1c2c4a; text-transform:uppercase; letter-spacing:0.06em;">Languages</h4>
+        <div style="display:flex; flex-wrap:wrap; gap:0.45rem;">
+          <span style="background:#dff4ed; color:#135641; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Arabic · Native</span>
+          <span style="background:#dff4ed; color:#135641; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">English · Fluent</span>
+          <span style="background:#dff4ed; color:#135641; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">German · B2/C1</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
