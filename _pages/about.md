@@ -30,7 +30,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 <!-- MR6D -->
 <div id="mr6d" class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:0.8rem 0; background:#f5f5f5; border-radius:10px; padding:1.2rem;">
   <!-- Left: 16:9 image box -->
-  <div class="pub-thumb" style="position:relative; width:100%; aspect-ratio:16/9; background:#f9f9f9; border:1px solid #ddd; border-radius:6px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+  <div class="pub-thumb" style="position:relative; width:100%; aspect-ratio:16/9; background:#f9f9f9; border-radius:6px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
     <img src="/images_content/MR6D.png" alt="MR6D teaser image" loading="lazy"
          style="width:100%; height:100%; object-fit:contain;">
   </div>
@@ -70,7 +70,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/bop24.jpg" alt="BOP Challenge 2024 teaser image" loading="lazy"
-         style="width:100%; height:auto; border:1px solid #ddd; border-radius:6px; background:#f9f9f9; padding:2px;">
+         style="width:100%; height:auto; border-radius:6px; background:#f9f9f9; padding:2px;">
   </div>
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
@@ -111,7 +111,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 <!-- MTevent -->
 <div id="mtevent" class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:0.8rem 0; background:#f5f5f5; border-radius:10px; padding:1.2rem;">
   <!-- Left: 2:3 image box -->
-  <div class="pub-thumb" style="position:relative; width:100%; aspect-ratio:2/3; background:#f9f9f9; border:1px solid #ddd; border-radius:6px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
+  <div class="pub-thumb" style="position:relative; width:100%; aspect-ratio:2/3; background:#f9f9f9; border-radius:6px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
     <img src="/images_content/MTevent_event_L_RGB.jpg" alt="MTevent teaser image" loading="lazy"
          style="width:100%; height:100%; object-fit:contain;">
   </div>
@@ -159,7 +159,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
   <!-- Left: flexible height -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/CTL.png" alt="CTL teaser image" loading="lazy"
-         style="width:100%; height:auto; border:1px solid #ddd; border-radius:6px; background:#f9f9f9; padding:2px;">
+         style="width:100%; height:auto; border-radius:6px; background:#f9f9f9; padding:2px;">
   </div>
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
@@ -201,7 +201,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/dounseen_paper.png" alt="DoUnseen teaser image" loading="lazy"
-         style="width:100%; height:auto; border:1px solid #ddd; border-radius:6px; background:#f9f9f9; padding:2px;">
+         style="width:100%; height:auto; border-radius:6px; background:#f9f9f9; padding:2px;">
   </div>
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
@@ -234,7 +234,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/Event_as_ROI.png" alt="Event Camera as RPN teaser image" loading="lazy"
-         style="width:100%; height:auto; border:1px solid #ddd; border-radius:6px; background:#f9f9f9; padding:2px;">
+         style="width:100%; height:auto; border-radius:6px; background:#f9f9f9; padding:2px;">
   </div>
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
@@ -265,7 +265,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/sensorfloor_render.jpg" alt="SensorFloor teaser image" loading="lazy"
-         style="width:100%; height:auto; border:1px solid #ddd; border-radius:6px; background:#f9f9f9; padding:2px;">
+         style="width:100%; height:auto; border-radius:6px; background:#f9f9f9; padding:2px;">
   </div>
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
@@ -300,10 +300,9 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
 
 <!-- The potential of deep learning in warehousing logistics -->
 <div id="dl_in_log" class="pub-item" style="display:grid; grid-template-columns:240px 1fr; gap:1rem; align-items:start; margin:0.8rem 0; background:#f5f5f5; border-radius:10px; padding:1.2rem;">
-  <!-- Left: empty white space -->
-  <div class="pub-thumb" style="width:100%; text-align:center;">
-    <div style="width:100%; aspect-ratio:4/3; border:1px solid #fff; border-radius:6px; background:#fff;"></div>
-  </div>
+  <!-- Left: empty space (no white box) -->
+  <div class="pub-thumb" style="width:100%;"></div>
+
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
     <h3 class="pub-title" style="margin:0 0 0.3em 0;">
@@ -336,7 +335,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/dopose.png" alt="DoPose-6D teaser image" loading="lazy"
-         style="width:100%; height:auto; border:1px solid #ddd; border-radius:6px; background:#f9f9f9; padding:2px;">
+         style="width:100%; height:auto; border-radius:6px; background:#f9f9f9; padding:2px;">
   </div>
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
@@ -377,7 +376,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/iiwa_new.jpg" alt="Object Class-Agnostic Segmentation teaser image" loading="lazy"
-         style="width:100%; height:auto; border:1px solid #ddd; border-radius:6px; background:#f9f9f9; padding:2px;">
+         style="width:100%; height:auto; border-radius:6px; background:#f9f9f9; padding:2px;">
   </div>
 
   <!-- Right: paper info -->
@@ -411,7 +410,7 @@ I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in
   <!-- Left: thumbnail -->
   <div class="pub-thumb" style="width:100%; text-align:center;">
     <img src="/images_content/3-non-initiator_cut.jpg" alt="Decentralized Brains teaser image" loading="lazy"
-         style="width:100%; height:auto; border:1px solid #ddd; border-radius:6px; background:#f9f9f9; padding:2px;">
+         style="width:100%; height:auto; border-radius:6px; background:#f9f9f9; padding:2px;">
   </div>
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
