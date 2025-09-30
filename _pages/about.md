@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher at TU Dortmund University, nearing completion of my PhD in computer vision for robotics. My work focuses on deep learning methods for unseen objects, with a background in robotics hardware and software, including electronics, embedded systems, localization, and perception. My main research interests are generalized vision deep learning and high-speed perception with event cameras.
+I am a research associate pursuing my PhD in computer vision for robotics at TU Dortmund, where I also completed my MSc in Automation & Robotics. Within the logistics research community shared by TU Dortmund and Fraunhofer IML, I work on deep learning methods for unseen objects and high-speed perception. I’m also affiliated with the Lamarr Institute for Artificial Intelligence. I have hands-on experience across all aspects of robotics, including electronics, embedded systems, localization, and perception. I’m interested in continuing my research on perception for high-speed robotics, especially using event vision.
 
 
 
