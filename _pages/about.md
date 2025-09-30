@@ -31,7 +31,7 @@ I am a research associate pursuing my PhD in computer vision for robotics at TU 
 <div id="mr6d" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: 16:9 image box -->
   <div class="pub-thumb" style="position:relative; width:100%; aspect-ratio:16/9; background:#f9f9f9; border-radius:6px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
-    <img src="/images_content/MR6D.png" alt="MR6D teaser image" loading="lazy"
+    <img src="/images_content/MR6D_optimized.gif" alt="MR6D teaser image" loading="lazy"
          style="width:100%; height:100%; object-fit:contain;">
   </div>
   <!-- Right: paper info -->
@@ -112,7 +112,7 @@ I am a research associate pursuing my PhD in computer vision for robotics at TU 
 <div id="mtevent" class="pub-item" style="display:grid; grid-template-columns:35% 65%; gap:1rem; align-items:start; margin:0.8rem 0; background:#f8f9fb; border-radius:10px; padding:1.2rem; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
   <!-- Left: 2:3 image box -->
   <div class="pub-thumb" style="position:relative; width:100%; aspect-ratio:2/3; background:#f9f9f9; border-radius:6px; overflow:hidden; display:flex; align-items:center; justify-content:center;">
-    <img src="/images_content/MTevent_event_L_RGB.jpg" alt="MTevent teaser image" loading="lazy"
+    <img src="/images_content/MTevent_event_L_RGB.gif" alt="MTevent teaser image" loading="lazy"
          style="width:100%; height:100%; object-fit:contain;">
   </div>
   <!-- Right: paper info -->
@@ -714,7 +714,7 @@ I am a research associate pursuing my PhD in computer vision for robotics at TU 
     <a href="https://alaakhamis.org/MineProbe/" target="_blank" rel="noopener" style="display:inline-block; background:#dbe4ff; color:#142d6f; padding:0.35em 0.9em; border-radius:0.4em; text-decoration:none; font-weight:600;">Project Page</a>
   </p>
   <div class="project-images" style="display:flex; justify-content:center; margin:0 auto 1rem auto; max-width:1000px;">
-    <img src="/images_content/mineprobe.jpg" alt="Mineprobe robot" loading="lazy" style="height:180px; width:auto;">
+    <img src="/images_content/mineprobe_optimized.gif" alt="Mineprobe robot" loading="lazy" style="height:180px; width:auto;">
   </div>
   <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
     <p style="margin:0.4rem 0;">
@@ -802,7 +802,7 @@ I am a research associate pursuing my PhD in computer vision for robotics at TU 
           <span style="font-size:0.9em; color:#5a6b8f;">2023 – Present · Dortmund</span>
         </div>
         <div style="font-size:0.95em; color:#283557; font-weight:500; margin-top:0.2rem;">LAMARR Institute for Machine Learning and Artificial Intelligence</div>
-        <p style="font-size:0.9em; color:#586079; margin:0.4rem 0 0 0;">Lead research on deep learning and computer vision for mobile manipulation and robotic grasping.</p>
+        <p style="font-size:0.9em; color:#586079; margin:0.4rem 0 0 0;">Conduct research on deep learning and computer vision for robotic grasping and high-speed perception.</p>
       </li>
       <li>
         <div style="display:flex; flex-direction:column; gap:0.25rem;">
@@ -833,7 +833,7 @@ I am a research associate pursuing my PhD in computer vision for robotics at TU 
           <span style="font-weight:600; color:#11203f;">Robotics Software &amp; Hardware Developer</span>
           <span style="font-size:0.9em; color:#5a6b8f;">2016 – 2017 · Egypt</span>
         </div>
-        <div style="font-size:0.95em; color:#283557; font-weight:500; margin-top:0.2rem;">Innovision Industries</div>
+        <div style="font-size:0.95em; color:#283557; font-weight:500; margin-top:0.2rem;">Innovision Robotics</div>
         <p style="font-size:0.9em; color:#586079; margin:0.4rem 0 0 0;">Designed sensing, localization, and PCB hardware for the Mineprobe landmine-detection robot.</p>
       </li>
     </ul>
