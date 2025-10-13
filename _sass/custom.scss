@@ -1,3 +1,147 @@
 .page__footer {
   display: none;
 }
+
+/* Projects section dark theme adjustments */
+html[data-theme="dark"] .projects .project-item {
+  background-color: rgba(255, 255, 255, 0.05) !important;
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.35) !important;
+  color: var(--global-text-color) !important;
+}
+
+html[data-theme="dark"] .projects .project-item h3,
+html[data-theme="dark"] .projects .project-item h4,
+html[data-theme="dark"] .projects .project-item p,
+html[data-theme="dark"] .projects .project-item span,
+html[data-theme="dark"] .projects .project-item strong {
+  color: var(--global-text-color) !important;
+}
+
+html[data-theme="dark"] .projects .project-item p a {
+  color: var(--global-link-color) !important;
+}
+
+html[data-theme="dark"] .projects .project-item a[style*="background"],
+html[data-theme="dark"] .projects .project-item span[style*="background"] {
+  background-color: rgba(82, 173, 200, 0.25) !important;
+  color: #e3f2ff !important;
+  border: 1px solid rgba(227, 242, 255, 0.35) !important;
+}
+
+html[data-theme="dark"] .projects .project-item .project-images img {
+  filter: none;
+}
+
+html[data-theme="dark"] .projects .sub-projects > div {
+  background-color: rgba(255, 255, 255, 0.08) !important;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3) !important;
+  color: var(--global-text-color) !important;
+}
+
+html[data-theme="dark"] .projects .sub-projects > div p,
+html[data-theme="dark"] .projects .sub-projects > div h4 {
+  color: var(--global-text-color) !important;
+}
+
+.projects .project-item h3,
+.projects .project-item h4,
+.projects .project-item strong {
+  color: #1b2747 !important;
+}
+
+.projects .project-item p,
+.projects .project-item span {
+  color: #2d3f74 !important;
+}
+
+.projects .project-item p a,
+.projects .project-item .project-meta a {
+  color: #1b2747 !important;
+}
+
+/* Publications section dark theme adjustments */
+html[data-theme="dark"] .publications .pub-item {
+  background-color: rgba(255, 255, 255, 0.05) !important;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.35) !important;
+  color: var(--global-text-color) !important;
+}
+
+html[data-theme="dark"] .publications .pub-item .pub-thumb {
+  background-color: rgba(0, 0, 0, 0.35) !important;
+}
+
+html[data-theme="dark"] .publications .pub-item .pub-title,
+html[data-theme="dark"] .publications .pub-item .pub-authors,
+html[data-theme="dark"] .publications .pub-item .pub-affiliations,
+html[data-theme="dark"] .publications .pub-item .pub-venue,
+html[data-theme="dark"] .publications .pub-item .pub-note,
+html[data-theme="dark"] .publications .pub-item strong {
+  color: var(--global-text-color) !important;
+}
+
+html[data-theme="dark"] .publications .pub-item a[style*="background"],
+html[data-theme="dark"] .publications .pub-item span[style*="background"] {
+  background-color: rgba(82, 173, 200, 0.25) !important;
+  color: #e3f2ff !important;
+  border: 1px solid rgba(227, 242, 255, 0.35) !important;
+}
+
+html[data-theme="dark"] .publications .pub-item a {
+  color: var(--global-link-color) !important;
+}
+
+/* About/intro card adjustments for dark theme */
+html[data-theme="dark"] .about-card {
+  background-color: rgba(255, 255, 255, 0.05) !important;
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.35) !important;
+  color: var(--global-text-color) !important;
+}
+
+html[data-theme="dark"] .about-card h3,
+html[data-theme="dark"] .about-card span,
+html[data-theme="dark"] .about-card p,
+html[data-theme="dark"] .about-card li {
+  color: var(--global-text-color) !important;
+}
+
+html[data-theme="dark"] .about-card span[style*="#e1e7ff"] {
+  background-color: rgba(82, 173, 200, 0.25) !important;
+  color: #e3f4ff !important;
+  border: 1px solid rgba(227, 242, 255, 0.35) !important;
+}
+
+html[data-theme="dark"] .about-card span[style*="#dff4ed"] {
+  background-color: rgba(64, 201, 155, 0.22) !important;
+  color: #dbfff1 !important;
+  border: 1px solid rgba(219, 255, 241, 0.35) !important;
+}
+
+html[data-theme="dark"] .about-card div[style*="#283557"],
+html[data-theme="dark"] .about-card span[style*="#5a6b8f"],
+html[data-theme="dark"] .about-card span[style*="#11203f"],
+html[data-theme="dark"] .about-card p[style*="#586079"] {
+  color: var(--global-text-color) !important;
+}
+
+html[data-theme="dark"] .page__content p,
+html[data-theme="dark"] .page__content li {
+  color: var(--global-text-color) !important;
+}
+
+/* About section baseline colors */
+.about-card {
+  background: #f8f9fb !important;
+  border-radius: 14px;
+  box-shadow: 0 10px 24px rgba(15, 30, 65, 0.08);
+  color: #1b2747 !important;
+}
+
+.about-card h3 {
+  color: #142d6f !important;
+}
+
+.about-card span,
+.about-card p,
+.about-card li {
+  color: #283557 !important;
+}
