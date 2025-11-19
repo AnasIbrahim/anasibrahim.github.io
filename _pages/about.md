@@ -9,6 +9,9 @@ redirect_from:
 
 I am a research associate pursuing my PhD in computer vision for robotics at TU Dortmund, where I also completed my MSc in Automation & Robotics. Within the logistics research community shared by TU Dortmund and Fraunhofer IML, I work on deep learning methods for unseen objects and high-speed perception. I’m also affiliated with the Lamarr Institute for Artificial Intelligence. I have hands-on experience across all aspects of robotics, including electronics, embedded systems, localization, and perception. I’m interested in continuing my research on perception for high-speed robotics, especially using event vision.
 
+<p style="font-weight:600; color:#1569C7; opacity:0.9;">
+    Seeking research and industry opportunities starting Q1–Q2 2026 (flexible start date).
+</p>
 
 
 ## Updates {#updates}
@@ -674,30 +677,6 @@ I am a research associate pursuing my PhD in computer vision for robotics at TU 
       <span style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">IoT</span>
       <span style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">Robotics Localization</span>
     </div>
-  </div>
-</div>
-
-<!-- Project: ROSVITA -->
-<div class="project-item" style="text-align:center; margin:0.8rem 0; padding:1.5rem; border-radius:10px; background:#f8f9fb; box-shadow:0 12px 28px rgba(15,30,65,0.08);">
-  <h3 style="margin:0 0 0.3rem 0;">
-    ROSVITA
-  </h3>
-  <p style="margin:0 0 1rem 0; font-size:0.95em; color:#666;">
-    Xamla (Provisio GmbH) · 2018
-  </p>
-  <p style="margin:0 0 1rem 0;">
-    <a href="https://docs.xamla.com/" target="_blank" rel="noopener" style="display:inline-block; background:#dbe4ff; color:#142d6f; padding:0.35em 0.9em; border-radius:0.4em; text-decoration:none; font-weight:600;">Project Page</a>
-  </p>
-  <div class="project-desc" style="max-width:900px; margin:0 auto; line-height:1.5;">
-    <p style="margin:0.4rem 0;">
-      ROSVITA is an Integrated Development Environment (IDE) for the Robot Operating System (ROS), 
-      developed within Xamla, an internal start-up of Provisio GmbH. 
-      My responsibilities included developing ROS drivers for new sensors using Python.
-    </p>
-  </div>
-  <div class="project-meta" style="margin-top:0.9rem; display:inline-flex; gap:0.4rem; flex-wrap:wrap;">
-    <span style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">ROS</span>
-    <span style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:999px; font-size:0.9em;">Python</span>
   </div>
 </div>
 
