@@ -874,7 +874,7 @@ I am a research associate pursuing my PhD in computer vision for robotics at TU 
         <div style="display:flex; flex-wrap:wrap; gap:0.45rem;">
           <span style="background:#dff4ed; color:#135641; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">Arabic · Native</span>
           <span style="background:#dff4ed; color:#135641; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">English · Fluent</span>
-          <span style="background:#dff4ed; color:#135641; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">German · B2/C1</span>
+          <span style="background:#dff4ed; color:#135641; padding:0.3rem 0.65rem; border-radius:999px; font-size:0.9em;">German · C1</span>
         </div>
       </div>
     </div>
