@@ -121,7 +121,7 @@ I am a research associate pursuing my PhD in computer vision for robotics at TU 
   <!-- Right: paper info -->
   <div class="pub-meta" style="line-height:1.35;">
     <h3 class="pub-title" style="margin:0 0 0.3em 0; color:#142d6f;">
-      <a href="https://arxiv.org/abs/2504.02812" style="color:#142d6f; text-decoration:none;" target="_blank" rel="noopener">
+      <a href="https://arxiv.org/abs/2505.11282" style="color:#142d6f; text-decoration:none;" target="_blank" rel="noopener">
         MTevent: A Multi-Task Event Camera Dataset for 6D Pose Estimation and Moving Object Detection
       </a>
     </h3>
@@ -141,7 +141,7 @@ I am a research associate pursuing my PhD in computer vision for robotics at TU 
       CVPR 2025 — Workshop on Event-based Vision
     </p>
     <p class="pub-links" style="margin:0.6em 0; display:flex; flex-wrap:wrap; gap:0.6rem;">
-      <a href="https://arxiv.org/abs/2504.02812" target="_blank" rel="noopener"
+      <a href="https://arxiv.org/abs/2505.11282" target="_blank" rel="noopener"
          style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
          <img src="/images_content/arxiv-logo.png" alt="arXiv" style="height:16px;">
       </a>
