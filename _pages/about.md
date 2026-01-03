@@ -370,9 +370,9 @@ I am a research associate pursuing my PhD in computer vision for robotics at TU 
          style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
          IEEE
       </a>
-      <a href="https://zenodo.org/records/6103779" target="_blank" rel="noopener"
+      <a href="https://huggingface.co/datasets/anas-gouda/dopose" target="_blank" rel="noopener"
          style="background:#dbe4ff; color:#142d6f; padding:0.25em 0.6em; border-radius:0.35em; font-size:0.9em; text-decoration:none; display:inline-flex; align-items:center; gap:0.35rem;">
-         Dataset
+         <img src="/images_content/hf-logo.png" alt="Hugging Face" style="height:16px;"> Dataset
       </a>
     </p>
   </div>
