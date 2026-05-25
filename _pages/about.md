@@ -10,7 +10,7 @@ redirect_from:
 I am a research associate pursuing my PhD in computer vision for robotics at TU Dortmund, where I also completed my MSc in Automation & Robotics. Within the logistics research community shared by TU Dortmund and Fraunhofer IML, I work on deep learning methods for unseen objects and high-speed perception. I’m also affiliated with the Lamarr Institute for Artificial Intelligence. I have hands-on experience across all aspects of robotics, including electronics, embedded systems, localization, and perception. I’m interested in continuing my research on perception for high-speed robotics, especially using event vision.
 
 <p style="font-weight:600; color:#1569C7; opacity:0.9;">
-    Seeking research and industry opportunities starting Q1–Q2 2026 (flexible start date).
+    Seeking research and industry opportunities starting late summer.
 </p>
 
 
